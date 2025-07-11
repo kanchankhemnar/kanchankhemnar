@@ -9,14 +9,14 @@
 
 - 🔭 Building **AutoModel** – a no-code ML pipeline for non-programmers  
 - 🧠 Exploring **LLMs** , **BERT Models** , **Fine tuning** and **NLP**
-- 💻 Interned at FireAI – worked on client dashboards & internal React UI library  
+- 💻 Interned at FireAI – worked on client dashboards & internal React UI library 
 - 🌐 Strong in **React.js, Node.js, JavaScript, Firebase, Python, and Streamlit**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,mongodb,mysql,tailwind,redux,firebase,streamlit,aws)
+![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,mongodb,mysql,tailwind,redux,firebase,aws)
 
 ---
 
@@ -37,8 +37,8 @@
 
 ## 💬 Let's Connect!
 
-- 📫 Mail: kanchankhemnar170@gmail.com  
-- 💼 [LinkedIn]([https://linkedin.com/in/kanchankhemnar](https://www.linkedin.com/in/kanchan-khemnar-350033261/))  
+- ![Mail](https://skillicons.dev/icons?i=gmail): kanchankhemnar170@gmail.com  
+- ![LinkedIn](https://skillicons.dev/icons?i=linkedin): (https://www.linkedin.com/in/kanchan-khemnar-350033261/)
 
 ---
 
